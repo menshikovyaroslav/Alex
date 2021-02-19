@@ -1,0 +1,15 @@
+D:\GitHub\Alex\Alex\wpf\bin\Debug\wpf.exe.config
+D:\GitHub\Alex\Alex\wpf\bin\Debug\wpf.exe
+D:\GitHub\Alex\Alex\wpf\bin\Debug\wpf.pdb
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.csprojAssemblyReference.cache
+D:\GitHub\Alex\Alex\wpf\obj\Debug\MainWindow.g.cs
+D:\GitHub\Alex\Alex\wpf\obj\Debug\App.g.cs
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf_MarkupCompile.cache
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf_MarkupCompile.lref
+D:\GitHub\Alex\Alex\wpf\obj\Debug\MainWindow.baml
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.g.resources
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.Properties.Resources.resources
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.csproj.GenerateResource.cache
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.csproj.CoreCompileInputs.cache
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.exe
+D:\GitHub\Alex\Alex\wpf\obj\Debug\wpf.pdb

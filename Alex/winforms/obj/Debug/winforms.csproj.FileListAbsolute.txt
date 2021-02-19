@@ -1,0 +1,10 @@
+D:\GitHub\Alex\Alex\winforms\bin\Debug\winforms.exe.config
+D:\GitHub\Alex\Alex\winforms\bin\Debug\winforms.exe
+D:\GitHub\Alex\Alex\winforms\bin\Debug\winforms.pdb
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.csprojAssemblyReference.cache
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.Properties.Resources.resources
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.csproj.GenerateResource.cache
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.csproj.CoreCompileInputs.cache
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.exe
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.pdb
+D:\GitHub\Alex\Alex\winforms\obj\Debug\winforms.Form1.resources
